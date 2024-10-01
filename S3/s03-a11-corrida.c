@@ -1,11 +1,3 @@
-/**		Rômulo Silva de Oliveira
-
-		Programação Concorrente com Pthreads e Linguagem C
-
-		s03-a11-corrida.c
-*/		
-
-
 #include <stdio.h>
 #include <unistd.h>
 #include <pthread.h>
